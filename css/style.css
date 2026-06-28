@@ -239,3 +239,8 @@ a{
 	color:#0066cc
 }
 
+/* Alinhamento dos pontos em formação*/
+.section ul {
+    padding-left: 0;
+    list-style-position: inside;
+}
